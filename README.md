@@ -1,7 +1,7 @@
 # MazeSolver
 **This program takes a rectengular well-boundaried maze image and stores the image of solved maze map at solutions directory.**
 ### How To Use?
-1. Select images' of mazes, similar to the example ones, and load them to **test_mazes** directory with the name format "maze-(number)".
+1. Select images' of mazes, similar to the example ones, and load them to **test_mazes** directory with the name format "maze_(number)".
 2. While program is running, you will be asked to enter an input number for desired maze to be solved or simply to enter "exit" to terminate program.
 3. If the maze is solvable and compatible with the programs' requirements (see [technical remarks](#technical-remarks)), the solved image will be stored at **test_solutions** directory with the name format "maze_(number)_solution".
 ### Technical Remarks
